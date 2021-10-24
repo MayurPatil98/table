@@ -1,0 +1,121 @@
+body
+{
+    background-color: lightgray;
+}
+.checked
+{
+    width: 25px;
+    height: 25px;
+}
+#table1
+{
+    margin-top: 50px;
+    background-color: white;
+    border: 1px solid black;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+#mainheadrow
+{
+    height: 100px;
+    color: white;
+    font-weight: bold;
+}
+.priceplancolumn
+{
+    padding-left: 10px;
+}
+#priceplanhead
+{
+    border: 1px black solid;
+    border-radius: 5px;
+    text-align: center;
+    background-color: lightskyblue;
+}
+#lighthead
+{
+    border: 1px black solid;
+    margin: 0px;
+    border-radius: 5px;
+    background-color: orangered;
+    text-align: center;
+    padding: 0px;
+}
+#buylight
+{
+    border-radius: 5px;
+    height: 30px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    background-color: orangered;
+}
+#basichead
+{
+    border: 1px black solid;
+    background-color: cyan;
+    text-align: center;
+    border-radius: 5px;
+}
+#buybasic
+{
+    height: 30px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    background-color:cyan;
+    border-radius: 5px;
+}
+#standardhead
+{
+    border: 1px black solid;
+    background-color: gold;
+    text-align: center;
+    border-radius: 5px;
+}
+#buystandard
+{
+    height: 30px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    background-color:gold;
+    border-radius: 5px;
+}
+#premhead
+{
+    border: 1px black solid;
+    background-color: midnightblue;
+    text-align: center;
+    border-radius: 5px;
+}
+#buypremium
+{
+    height: 30px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    background-color:midnightblue;
+    border-radius: 5px;
+}
+#personalhead
+{
+    border: 1px black solid;
+    background-color: darkmagenta;
+    text-align: center;
+    border-radius: 5px;
+}
+#buypersonal
+{
+    height: 30px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    background-color:darkmagenta;
+    border-radius: 5px;
+}
+.checkmark
+{
+    text-align: center;
+}
